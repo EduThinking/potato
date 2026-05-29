@@ -1,0 +1,6 @@
+{
+  "name": "감자의 일기장과 창고",
+  "description": "귀여운 포슬 수미감자의 조용한 일기장, 수집 도감, 그리고 스마트폰 소품과 스티커를 주울 수 있는 따뜻하고 고요한 감자 창고 다이어리 어플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
